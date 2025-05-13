@@ -1,4 +1,4 @@
-# <img src="https://www.acharyaamrit.com.np/assets/img/i.jpg" width="30px"> Hello, I'm Amrit Acharya!
+# <img src="https://www.acharyaamrit.com.np/assets/img/i.jpg" width="30px" style="border-radius:50%"> Hello, I'm Amrit Acharya!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Backend+Developer+and+Programmer;Learning+Something+New+Everyday;Open+Source+Contributor)](https://git.io/typing-svg)
 
